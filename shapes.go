@@ -5,5 +5,5 @@ func Perimeter(rectangle Rectangle) float64 {
 }
 
 func Area(rectangle Rectangle) float64 {
-    return rectangle.Width * rectangle.Height
+	return rectangle.Width * rectangle.Height
 }
